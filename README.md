@@ -1,4 +1,4 @@
-# cheerzclubvendor
+# cheerzclub-vendor-Application
 
 A new Flutter application.
 
